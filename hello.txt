@@ -1,7 +1,4 @@
-hello
-hai
 beautife
-will
 uiautomater
 pytest
 1989
